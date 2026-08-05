@@ -5,19 +5,7 @@ subscribe_keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="📢 Канал 1",
-                url="https://t.me/avatartgia"
-            )
-        ],
-        [
-            InlineKeyboardButton(
-                text="📢 Канал 2",
-                url="https://t.me/avtoblogtgai"
-            )
-        ],
-        [
-            InlineKeyboardButton(
-                text="📢 Канал 3",
-                url="https://t.me/xzrgai"
+                url="https://t.me/avat"
             )
         ],
         [
